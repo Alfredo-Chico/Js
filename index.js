@@ -172,4 +172,4 @@ const otraFAF = (a,b) => {
     return a + b;
 }
 const rFAF = otraFAF(3, 7);
-console.log(rFAF);
+console.log(rFAF + "Esto es una prueba de repositorio");
